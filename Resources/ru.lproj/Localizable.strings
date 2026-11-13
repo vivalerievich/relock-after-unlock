@@ -1,0 +1,5 @@
+"app.name" = "Автоблокировка";
+"delay.minutes" = "%d минут";
+"status.waiting" = "Таймер начнётся после разблокировки";
+"status.remaining" = "До блокировки: %@";
+"status.deadline" = "Блокировка в %@";

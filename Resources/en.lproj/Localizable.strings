@@ -1,0 +1,5 @@
+"app.name" = "Relock After Unlock";
+"delay.minutes" = "%d minutes";
+"status.waiting" = "Timer starts after unlock";
+"status.remaining" = "Until lock: %@";
+"status.deadline" = "Locks at %@";
